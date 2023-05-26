@@ -1,4 +1,4 @@
-# Transformez une maquette en site web avec HTML & CSS
+# Optimisez un site web existant
 ### La Panthère - Agence de Web Design
 _Projet 4 - Formation Développeu.r.se Web - aout 2022 - Openclassrooms_
 
